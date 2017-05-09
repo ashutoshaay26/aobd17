@@ -111,7 +111,7 @@ List of assignments with solutions.
   <tr>  
   <td>8</td>
   <td>Incremental Linear Discriminant Analysis</td>
-  <td>Bhavya Patwa <a href="">A</a><br>
+  <td>Bhavya Patwa <a href="www.google.com">A</a><br>
   Shreyas Patel <a href="https://github.com/shreyaspatel25/ILDA" target="_blank">Sol.</a><br>
   </td>
   </tr>
